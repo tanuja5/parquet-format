@@ -468,8 +468,8 @@ as shown below.
 
 | ConvertedType | LogicalType |
 |---------------|-------------|
-| TIMESTAMP_MILLIS | TimestampType (isAdjustedToUTC = true, unit = MILLIS) |
-| TIMESTAMP_MICROS | TimestampType (isAdjustedToUTC = true, unit = MICROS) |
+| TIMESTAMP_MILLIS | TimestampType (isAdjustedToUTC = true, precision = MILLIS) |
+| TIMESTAMP_MICROS | TimestampType (isAdjustedToUTC = true, precision = MICROS) |
 
 *Forward compatibility:*
 
